@@ -1,0 +1,1 @@
+Pritnt("Hello world")
